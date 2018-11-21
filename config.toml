@@ -1,65 +1,57 @@
 # Settings
-baseurl = "http://example.org/"
-languageCode = "en-us"
-title = "Phugo"
+baseurl = "https://dainasouza.com.br/"
+languageCode = "pt-br"
+title = "Daina Souza Fotografia"
 theme = "phugo"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-47260469-1"
 publishDir = "docs"
 
 [params]
 
     # Meta
-    description = "Phugo - Photo Gallery on Hugo"
-    author = "aerohub"
-    keywords = "phugo, hugo, photogallery, photoblog, hugo theme"
+    description = "Daina Souza Fotografia - Galeria"
+    author = "dainasouza"
+    keywords = "photogallery, photoblog, daina, dainasouza, fotografia"
     
     # Headerbar links
     # Do not put here too many links,
     # it will break mobile appearance
 
     [[params.header.links]]
-    name = "About"
+    name = "Sobre"
     url = "#footer"
     icon = "fa-info-circle"    
     
     # Footer panel
     
     [params.footer.paragraph]
-    headline = "Magna feugiat sed adipiscing"
-    text = "Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum."
+    headline = "Daina Souza"
+    text = "Olá! Eu sou analista de sistemas de dia e fotógrafa amadora nas horas vagas e esse site é uma pequena demonstração do meu trabalho. Vejo o mundo com as lentes de uma câmera procurando eternizar com fotos os momentos especiais."
     
     [params.footer.social]
-    headline = "Follow me"
+    headline = "Siga me"
 
-    [[params.footer.social.links]]
-    label = "Twitter"
-    url = "#"
-    icon = "fa-twitter"
-
+   
     [[params.footer.social.links]]
     label = "Facebook"
-    url = "#"
+    url = "https://www.facebook.com/dainasouzafotografia/"
     icon = "fa-facebook"
 
     [[params.footer.social.links]]
     label = "Instagram"
-    url = "#"
+    url = "https://instagram.com/daina_"
     icon = "fa-instagram"
 
     [[params.footer.social.links]]
-    label = "Github"
-    url = "#"
-    icon = "fa-github"
+    label = "flickr"
+    url = "https://www.flickr.com/photos/daiphotos/"
+    icon = "fa-flickr"
 
     [[params.footer.social.links]]
-    label = "Dribbble"
-    url = "#"
-    icon = "fa-dribbble"
+    label = "Pinterest"
+    url = "https://br.pinterest.com/dainasouza/"
+    icon = "fa-pinterest"
 
-    [[params.footer.social.links]]
-    label = "LinkedIn"
-    url = "#"
-    icon = "fa-linkedin"
     
     # Contact form
     
@@ -77,24 +69,24 @@ publishDir = "docs"
     
     [params.footer.contact]
     hide = false # Set this to true if you don't want to have a contact form on your site
-    realEmail = "example@examle.org"
-    headline = "Get in touch"
-    buttonText = "Send"
-    resetText = "Reset"
+    realEmail = "mailtodaina@gmail.com"
+    headline = "Entre em contato"
+    buttonText = "Enviar"
+    resetText = "Limpar"
     
     # 'warning' defines error messages for invalid inputs
     [params.footer.contact.name]
-    text = "Name *"
-    warning = "Please, enter your name"
+    text = "Nome *"
+    warning = "Insira aqui seu nome"
 
     [params.footer.contact.email]
     text = "Email *"
-    warning = "Please, enter your email."
+    warning = "Insira aqui seu email"
 
     [params.footer.contact.message]
-    text = "Message *"
-    warning = "Please, enter your message"
+    text = "Mensagem *"
+    warning = "Digite aqui sua mensagem"
     
     # Copyright
     [params.footer.copyright]
-    name = "Your name"
+    name = "Daina Souza Oenning"

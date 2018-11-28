@@ -1,7 +1,7 @@
 +++
 albumthumb = "/albums/o-lado-feminino/ladofeminino8.jpg"
 date = "2015-01-01T19:07:17+03:00"
-title = "Aniversário de Criança"
+title = "O Lado Feminino"
 +++
 
 {{< photo full="/albums/o-lado-feminino/ladofeminino11.jpg" thumb="/albums/o-lado-feminino/ladofeminino11.jpg" 
@@ -26,5 +26,4 @@ phototitle="Mulheres que inspiram" >}}
          thumb="/albums/o-lado-feminino/ladofeminino1.jpg"  >}}
 {{< photo full="/albums/o-lado-feminino/ladofeminino2.jpg" 
          thumb="/albums/o-lado-feminino/ladofeminino2.jpg"  >}}
-
 

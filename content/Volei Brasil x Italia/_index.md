@@ -1,0 +1,52 @@
++++
+albumthumb = "/albums/volei-brasil-italia/volei-brasil-italia-20.jpg"
+date = "2014-09-01T19:07:17+03:00"
+title = "Vôlei Brasil x Itália"
++++
+
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-1.jpg" thumb="/albums/volei-brasil-italia/volei-brasil-italia-1.jpg" 
+phototitle="Liga Mundial de Vôlei It 3 x 1 Br" >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-2.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-2.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-3.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-3.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-4.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-4.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-5.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-5.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-6.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-6.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-7.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-7.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-8.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-8.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-9.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-9.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-10.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-10.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-11.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-11.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-12.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-12.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-13.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-13.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-14.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-14.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-15.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-15.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-16.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-16.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-17.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-17.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-18.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-18.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-19.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-19.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-20.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-20.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-21.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-21.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-22.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-22.jpg"  >}}
+{{< photo full="/albums/volei-brasil-italia/volei-brasil-italia-23.jpg" 
+         thumb="/albums/volei-brasil-italia/volei-brasil-italia-23.jpg"  >}}

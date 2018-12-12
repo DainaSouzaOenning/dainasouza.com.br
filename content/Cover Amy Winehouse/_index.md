@@ -1,0 +1,56 @@
++++
+albumthumb = "/albums/cover-amy/cover-amy-4.jpg"
+date = "2016-04-01T19:07:17+03:00"
+title = "Cover Amy Winehouse"
++++
+
+{{< photo full="/albums/cover-amy/cover-amy-1.jpg" thumb="/albums/cover-amy/cover-amy-1.jpg" 
+phototitle="Ensaio Cover Amy Winehouse" >}}
+{{< photo full="/albums/cover-amy/cover-amy-2.jpg" 
+         thumb="/albums/cover-amy/cover-amy-2.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-3.jpg" 
+         thumb="/albums/cover-amy/cover-amy-3.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-4.jpg" 
+         thumb="/albums/cover-amy/cover-amy-4.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-5.jpg" 
+         thumb="/albums/cover-amy/cover-amy-5.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-6.jpg" 
+         thumb="/albums/cover-amy/cover-amy-6.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-7.jpg" 
+         thumb="/albums/cover-amy/cover-amy-7.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-8.jpg" 
+         thumb="/albums/cover-amy/cover-amy-8.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-9.jpg" 
+         thumb="/albums/cover-amy/cover-amy-9.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-10.jpg" 
+         thumb="/albums/cover-amy/cover-amy-10.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-11.jpg" 
+         thumb="/albums/cover-amy/cover-amy-11.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-12.jpg" 
+         thumb="/albums/cover-amy/cover-amy-12.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-13.jpg" 
+         thumb="/albums/cover-amy/cover-amy-13.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-14.jpg" 
+         thumb="/albums/cover-amy/cover-amy-14.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-15.jpg" 
+         thumb="/albums/cover-amy/cover-amy-15.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-16.jpg" 
+         thumb="/albums/cover-amy/cover-amy-16.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-17.jpg" 
+         thumb="/albums/cover-amy/cover-amy-17.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-18.jpg" 
+         thumb="/albums/cover-amy/cover-amy-18.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-19.jpg" 
+         thumb="/albums/cover-amy/cover-amy-19.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-20.jpg" 
+         thumb="/albums/cover-amy/cover-amy-20.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-21.jpg" 
+         thumb="/albums/cover-amy/cover-amy-21.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-22.jpg" 
+         thumb="/albums/cover-amy/cover-amy-22.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-23.jpg" 
+         thumb="/albums/cover-amy/cover-amy-23.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-24.jpg" 
+         thumb="/albums/cover-amy/cover-amy-24.jpg"  >}}
+{{< photo full="/albums/cover-amy/cover-amy-25.jpg" 
+         thumb="/albums/cover-amy/cover-amy-25.jpg"  >}}

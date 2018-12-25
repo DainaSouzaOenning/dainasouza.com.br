@@ -1,0 +1,56 @@
++++
+albumthumb = "/albums/serra-gaucha/gramado-24.jpg"
+date = "2016-03-26T19:07:17+03:00"
+title = "Serra Gaucha"
++++
+
+{{< photo full="/albums/serra-gaucha/gramado-1.jpg" thumb="/albums/serra-gaucha/gramado-1.jpg" 
+phototitle="#Gramado #SerraGaucha #Páscoa #RS #LagoNegro #MiniMundo" >}}
+{{< photo full="/albums/serra-gaucha/gramado-2.jpg" 
+         thumb="/albums/serra-gaucha/gramado-2.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-3.jpg" 
+         thumb="/albums/serra-gaucha/gramado-3.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-4.jpg" 
+         thumb="/albums/serra-gaucha/gramado-4.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-5.jpg" 
+         thumb="/albums/serra-gaucha/gramado-5.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-6.jpg" 
+         thumb="/albums/serra-gaucha/gramado-6.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-7.jpg" 
+         thumb="/albums/serra-gaucha/gramado-7.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-8.jpg" 
+         thumb="/albums/serra-gaucha/gramado-8.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-9.jpg" 
+         thumb="/albums/serra-gaucha/gramado-9.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-10.jpg" 
+         thumb="/albums/serra-gaucha/gramado-10.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-11.jpg" 
+         thumb="/albums/serra-gaucha/gramado-11.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-12.jpg" 
+         thumb="/albums/serra-gaucha/gramado-12.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-13.jpg" 
+         thumb="/albums/serra-gaucha/gramado-13.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-14.jpg" 
+         thumb="/albums/serra-gaucha/gramado-14.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-15.jpg" 
+         thumb="/albums/serra-gaucha/gramado-15.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-16.jpg" 
+         thumb="/albums/serra-gaucha/gramado-16.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-17.jpg" 
+         thumb="/albums/serra-gaucha/gramado-17.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-18.jpg" 
+         thumb="/albums/serra-gaucha/gramado-18.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-19.jpg" 
+         thumb="/albums/serra-gaucha/gramado-19.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-20.jpg" 
+         thumb="/albums/serra-gaucha/gramado-20.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-21.jpg" 
+         thumb="/albums/serra-gaucha/gramado-21.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-22.jpg" 
+         thumb="/albums/serra-gaucha/gramado-22.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-23.jpg" 
+         thumb="/albums/serra-gaucha/gramado-23.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-24.jpg" 
+         thumb="/albums/serra-gaucha/gramado-24.jpg"  >}}
+{{< photo full="/albums/serra-gaucha/gramado-25.jpg" 
+         thumb="/albums/serra-gaucha/gramado-25.jpg"  >}}

@@ -1,0 +1,52 @@
++++
+albumthumb = "/albums/brussels-belgium/brussels-19.jpg"
+date = "2017-04-20T10:00:00+03:00"
+title = "Brussels – Belgium"
++++
+
+{{< photo full="/albums/brussels-belgium/brussels-1.jpg" thumb="/albums/brussels-belgium/brussels-1.jpg" 
+phototitle="Bruxelas" >}}
+{{< photo full="/albums/brussels-belgium/brussels-2.jpg" 
+         thumb="/albums/brussels-belgium/brussels-2.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-3.jpg" 
+         thumb="/albums/brussels-belgium/brussels-3.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-4.jpg" 
+         thumb="/albums/brussels-belgium/brussels-4.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-5.jpg" 
+         thumb="/albums/brussels-belgium/brussels-5.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-6.jpg" 
+         thumb="/albums/brussels-belgium/brussels-6.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-7.jpg" 
+         thumb="/albums/brussels-belgium/brussels-7.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-8.jpg" 
+         thumb="/albums/brussels-belgium/brussels-8.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-9.jpg" 
+         thumb="/albums/brussels-belgium/brussels-9.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-10.jpg" 
+         thumb="/albums/brussels-belgium/brussels-10.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-11.jpg" 
+         thumb="/albums/brussels-belgium/brussels-11.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-12.jpg" 
+         thumb="/albums/brussels-belgium/brussels-12.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-13.jpg" 
+         thumb="/albums/brussels-belgium/brussels-13.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-14.jpg" 
+         thumb="/albums/brussels-belgium/brussels-14.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-15.jpg" 
+         thumb="/albums/brussels-belgium/brussels-15.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-16.jpg" 
+         thumb="/albums/brussels-belgium/brussels-16.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-17.jpg" 
+         thumb="/albums/brussels-belgium/brussels-17.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-18.jpg" 
+         thumb="/albums/brussels-belgium/brussels-18.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-19.jpg" 
+         thumb="/albums/brussels-belgium/brussels-19.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-20.jpg" 
+         thumb="/albums/brussels-belgium/brussels-20.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-21.jpg" 
+         thumb="/albums/brussels-belgium/brussels-21.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-22.jpg" 
+         thumb="/albums/brussels-belgium/brussels-22.jpg"  >}}
+{{< photo full="/albums/brussels-belgium/brussels-23.jpg" 
+         thumb="/albums/brussels-belgium/brussels-23.jpg"  >}}

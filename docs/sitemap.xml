@@ -3,22 +3,212 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/test/</loc>
-    <lastmod>2016-10-21T19:07:17+03:00</lastmod>
+    <loc>https://dainasouza.com.br/portugal/</loc>
+    <lastmod>2017-08-25T10:00:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://dainasouza.com.br/photo-session-dublin/</loc>
+    <lastmod>2017-08-25T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/bray-air-display/</loc>
+    <lastmod>2017-07-23T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/around-ireland/</loc>
+    <lastmod>2017-06-20T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/keukenhof-netherlands/</loc>
+    <lastmod>2017-04-30T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/brussels/</loc>
+    <lastmod>2017-04-20T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/northern-ireland/</loc>
+    <lastmod>2017-04-17T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/wicklow/</loc>
+    <lastmod>2017-04-10T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/cliffs-of-moher/</loc>
+    <lastmod>2017-03-25T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/london/</loc>
+    <lastmod>2017-03-12T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/dublin/</loc>
+    <lastmod>2017-01-21T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/cha-de-bebe/</loc>
+    <lastmod>2016-12-01T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/rio-de-janeiro/</loc>
+    <lastmod>2016-11-15T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/ensaio-gravida/</loc>
+    <lastmod>2016-10-01T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/infancia/</loc>
+    <lastmod>2016-05-01T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/triathlon-caioba/</loc>
+    <lastmod>2016-04-17T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/rota-das-cachoeiras/</loc>
+    <lastmod>2016-04-09T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/cover-amy-winehouse/</loc>
+    <lastmod>2016-04-01T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/serra-gaucha/</loc>
+    <lastmod>2016-03-26T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/the-netherlands/</loc>
+    <lastmod>2015-10-22T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/paris/</loc>
+    <lastmod>2015-10-20T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/show-metal/</loc>
+    <lastmod>2015-08-01T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/serra-do-mar/</loc>
+    <lastmod>2015-04-16T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/corridas/</loc>
+    <lastmod>2015-02-01T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/parque-malwee/</loc>
+    <lastmod>2015-02-01T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/aniversario-de-crianca/</loc>
+    <lastmod>2015-01-01T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/o-lado-feminino/</loc>
+    <lastmod>2015-01-01T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/um-dia-em-holambra/</loc>
+    <lastmod>2014-11-01T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/orquestra-cidade-de-joinville/</loc>
+    <lastmod>2014-10-23T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/volei-brasil-x-italia/</loc>
+    <lastmod>2014-09-01T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/litoral-catarinense/</loc>
+    <lastmod>2014-04-19T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/correndo-de-kart/</loc>
+    <lastmod>2014-04-01T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/cha-de-panela/</loc>
+    <lastmod>2014-04-01T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/audax-joinville/</loc>
+    <lastmod>2014-03-23T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/casamentos/</loc>
+    <lastmod>2014-01-14T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/anoitecer-em-volta-redonda/</loc>
+    <lastmod>2014-01-01T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/sobre-joinville/</loc>
+    <lastmod>2014-01-01T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/jardim-do-edem/</loc>
+    <lastmod>2013-11-15T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/relembrando-buenos-aires/</loc>
+    <lastmod>2012-03-01T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dainasouza.com.br/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://dainasouza.com.br/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://dainasouza.com.br/tags/</loc>
     <priority>0</priority>
   </url>
   

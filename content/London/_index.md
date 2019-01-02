@@ -1,11 +1,59 @@
 +++
 albumthumb = "/albums/london-uk/london-11.jpg"
-date = "2017-03-12T10:00:00+03:00"
+date = "2018-12-27T10:00:00+03:00"
 title = "London – England"
 +++
 
 {{< photo full="/albums/london-uk/london-1.jpg" thumb="/albums/london-uk/london-1.jpg" 
 phototitle="Londres – Westminster – Big Ben – London Eye – Westminster Abbey – Buckingham Palace" >}}
+
+{{< photo full="/albums/london-uk/london-dec-1.jpg" 
+         thumb="/albums/london-uk/london-dec-1.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-2.jpg" 
+         thumb="/albums/london-uk/london-dec-2.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-3.jpg" 
+         thumb="/albums/london-uk/london-dec-3.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-4.jpg" 
+         thumb="/albums/london-uk/london-dec-4.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-5.jpg" 
+         thumb="/albums/london-uk/london-dec-5.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-6.jpg" 
+         thumb="/albums/london-uk/london-dec-6.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-7.jpg" 
+         thumb="/albums/london-uk/london-dec-7.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-8.jpg" 
+         thumb="/albums/london-uk/london-dec-8.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-9.jpg" 
+         thumb="/albums/london-uk/london-dec-9.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-10.jpg" 
+         thumb="/albums/london-uk/london-dec-10.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-11.jpg" 
+         thumb="/albums/london-uk/london-dec-11.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-12.jpg" 
+         thumb="/albums/london-uk/london-dec-12.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-13.jpg" 
+         thumb="/albums/london-uk/london-dec-13.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-14.jpg" 
+         thumb="/albums/london-uk/london-dec-14.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-15.jpg" 
+         thumb="/albums/london-uk/london-dec-15.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-16.jpg" 
+         thumb="/albums/london-uk/london-dec-16.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-17.jpg" 
+         thumb="/albums/london-uk/london-dec-17.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-18.jpg" 
+         thumb="/albums/london-uk/london-dec-18.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-19.jpg" 
+         thumb="/albums/london-uk/london-dec-19.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-20.jpg" 
+         thumb="/albums/london-uk/london-dec-20.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-21.jpg" 
+         thumb="/albums/london-uk/london-dec-21.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-22.jpg" 
+         thumb="/albums/london-uk/london-dec-22.jpg"  >}}
+{{< photo full="/albums/london-uk/london-dec-23.jpg" 
+         thumb="/albums/london-uk/london-dec-23.jpg"  >}}
+
 {{< photo full="/albums/london-uk/london-2.jpg" 
          thumb="/albums/london-uk/london-2.jpg"  >}}
 {{< photo full="/albums/london-uk/london-3.jpg" 
